@@ -1,2 +1,3 @@
 # Tool-Q
-Termux için tool yükleyicisi
+Termux için tool yükleyicisi.Sadece termux içindir
+
